@@ -1,0 +1,10 @@
+# findEnzymeCutSites
+This script reads in a FASTA file as well as a file containing enzymes and their cut sites (both files provided as arguments), and then finds the cut sites of the enzymes in the FASTA sequence. The script then produces an output file containing various pieces of information including, but not limited to, file names, header, number of cut sites, fragments produced, etc.
+
+////////////////////////////////////////////////////////////////////////Notes//////////////////////////////////////////////////////////////////////////////////
+
+None :)
+
+//////////////////////////////////////////////////////////////////////Dependencies//////////////////////////////////////////////////////////////////////////////
+
+#Perl 5 (I'm using v5.26.1)
